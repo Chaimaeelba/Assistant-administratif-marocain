@@ -1,0 +1,1690 @@
+{
+    "Documents d'identité": [
+        {
+            "id": 1,
+            "operation": "Première demande CNIE (Carte Nationale d'Identité Électronique)",
+            "categorie": "Documents d'identité",
+            "documents_requis": [
+                "Formulaire de pré-demande imprimé",
+                "4 photos d'identité récentes conformes OACI",
+                "Copie intégrale d'acte de naissance (en arabe/latin)",
+                "Certificat de résidence",
+                "Original du livret de famille ou copie selon cas"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Ministère de l'Intérieur / DGSN",
+            "source_officielle": "https://www.cnie.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "2 à 8 semaines",
+            "format_sortie": "Carte physique"
+        },
+        {
+            "id": 2,
+            "operation": "Renouvellement CNIE",
+            "categorie": "Documents d'identité",
+            "documents_requis": [
+                "Ancienne CNIE",
+                "Formulaire de renouvellement",
+                "2 photos d'identité",
+                "Justificatif de changement d'état civil si nécessaire"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Ministère de l'Intérieur / DGSN",
+            "source_officielle": "https://www.cnie.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "1 à 4 semaines",
+            "format_sortie": "Carte physique"
+        },
+        {
+            "id": 3,
+            "operation": "Duplicata CNIE (perte/vol)",
+            "categorie": "Documents d'identité",
+            "documents_requis": [
+                "Déclaration de perte/vol (Police/Gendarmerie)",
+                "4 photos d'identité",
+                "Extrait d'acte de naissance",
+                "Certificat de résidence"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "DGSN / Préfecture",
+            "source_officielle": "https://www.cnie.ma",
+            "frais_estimés": "Frais administratifs variable",
+            "delai_moyen": "1 à 3 semaines",
+            "format_sortie": "Carte physique"
+        },
+        {
+            "id": 4,
+            "operation": "Passeport biométrique - Première demande",
+            "categorie": "Documents d'identité",
+            "documents_requis": [
+                "Formulaire de demande rempli",
+                "Copie CNIE",
+                "4 photos d'identité récentes",
+                "Acte de naissance ou livret de famille",
+                "Code e-timbre (timbre électronique)"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "DGSN / Préfecture / Consulat",
+            "source_officielle": "https://www.passeport.ma",
+            "frais_estimés": "300 DH (ordinaire)",
+            "delai_moyen": "1 à 3 semaines",
+            "format_sortie": "Passeport biométrique"
+        },
+        {
+            "id": 5,
+            "operation": "Renouvellement de passeport",
+            "categorie": "Documents d'identité",
+            "documents_requis": [
+                "Copie CNIE",
+                "Ancien passeport ou justificatif de perte",
+                "Formulaire de demande",
+                "E-timbre"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "DGSN / Préfecture / Consulat",
+            "source_officielle": "https://www.passeport.ma",
+            "frais_estimés": "300 DH",
+            "delai_moyen": "1 à 3 semaines",
+            "format_sortie": "Passeport biométrique"
+        },
+        {
+            "id": 6,
+            "operation": "Passeport d'urgence",
+            "categorie": "Documents d'identité",
+            "documents_requis": [
+                "Justificatif de l'urgence (billet, certificat médical)",
+                "CNIE",
+                "Photos d'identité",
+                "E-timbre"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "DGSN / Consulat",
+            "source_officielle": "https://www.passeport.ma",
+            "frais_estimés": "Taux normal + frais d'urgence",
+            "delai_moyen": "24 à 72 heures",
+            "format_sortie": "Passeport temporaire / d'urgence"
+        },
+        {
+            "id": 7,
+            "operation": "Carte d'identité consulaire pour MRE (inscription consulaire)",
+            "categorie": "Documents d'identité",
+            "documents_requis": [
+                "Formulaire d'inscription consulaire",
+                "Preuve de résidence à l'étranger",
+                "Copie passeport ou CNIE",
+                "Photos d'identité"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Consulat du Maroc à l'étranger",
+            "source_officielle": "https://www.consulat.ma",
+            "frais_estimés": "Variable",
+            "delai_moyen": "2 à 6 semaines",
+            "format_sortie": "Attestation consulaire / Carte consulaire"
+        },
+        {
+            "id": 8,
+            "operation": "Permis de séjour pour étranger (titre de séjour) - demande initiale",
+            "categorie": "Documents d'identité",
+            "documents_requis": [
+                "Formulaire de demande",
+                "Passeport valide",
+                "Contrat de travail ou justificatif de ressources",
+                "Certificat de résidence",
+                "Photos d'identité"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Ministère de l'Intérieur / Préfecture",
+            "source_officielle": "https://www.interieur.gov.ma",
+            "frais_estimés": "Variable",
+            "delai_moyen": "2 à 8 semaines",
+            "format_sortie": "Titre de séjour"
+        },
+        {
+            "id": 9,
+            "operation": "Permis de séjour - renouvellement",
+            "categorie": "Documents d'identité",
+            "documents_requis": [
+                "Ancien titre de séjour",
+                "Passeport",
+                "Contrat de travail ou justificatif",
+                "Formulaire de renouvellement"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Préfecture",
+            "source_officielle": "https://www.interieur.gov.ma",
+            "frais_estimés": "Variable",
+            "delai_moyen": "2 à 6 semaines",
+            "format_sortie": "Titre de séjour renouvelé"
+        },
+        {
+            "id": 10,
+            "operation": "Permis de séjour - duplicata (perte/vol)",
+            "categorie": "Documents d'identité",
+            "documents_requis": [
+                "Déclaration de perte/vol (Police)",
+                "Formulaire duplicata",
+                "Passeport",
+                "Photos d'identité"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Préfecture / Sûreté",
+            "source_officielle": "https://www.interieur.gov.ma",
+            "frais_estimés": "Frais administratifs",
+            "delai_moyen": "1 à 4 semaines",
+            "format_sortie": "Titre de séjour"
+        }
+    ],
+    "Documents d'état civil": [
+        {
+            "id": 11,
+            "operation": "Obtention d'un extrait d'acte de naissance",
+            "categorie": "Documents d'état civil",
+            "documents_requis": [
+                "Demande écrite ou en ligne (Watiqa)",
+                "CNIE du demandeur",
+                "Numéro / lieu / année d'enregistrement si connu"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Bureau d'État Civil / Watiqa",
+            "source_officielle": "https://www.watiqa.ma",
+            "frais_estimés": "Gratuit en guichet / frais en ligne",
+            "delai_moyen": "Instantané en ligne ou 24-72h au guichet",
+            "format_sortie": "Extrait d'acte (papier / PDF)"
+        },
+        {
+            "id": 12,
+            "operation": "Déclaration de naissance (dans les 30 jours)",
+            "categorie": "Documents d'état civil",
+            "documents_requis": [
+                "Avis de naissance (hôpital/médecin)",
+                "CNIE des parents",
+                "Livret de famille ou pièce d'identité du déclarant"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Bureau d'État Civil",
+            "source_officielle": "https://www.watiqa.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "Le jour même à quelques jours",
+            "format_sortie": "Acte de naissance"
+        },
+        {
+            "id": 13,
+            "operation": "Constitution du dossier de mariage (acte de mariage)",
+            "categorie": "Documents d'état civil",
+            "documents_requis": [
+                "2 CNIE des époux",
+                "Certificat médical prénuptial",
+                "2 témoins CNIE",
+                "Certificat de célibat",
+                "Autorisation du tuteur si nécessaire"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Adouls / Tribunal / Commune",
+            "source_officielle": "https://www.demarchesmaroc.com",
+            "frais_estimés": "Variable (honoraires adouls)",
+            "delai_moyen": "1 à 7 jours",
+            "format_sortie": "Acte de mariage / Livret de famille"
+        },
+        {
+            "id": 14,
+            "operation": "Demande d'acte de décès",
+            "categorie": "Documents d'état civil",
+            "documents_requis": [
+                "Certificat médical de décès",
+                "CNIE du défunt ou livret de famille",
+                "CNIE du déclarant"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Bureau d'État Civil",
+            "source_officielle": "https://www.watiqa.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "24 à 72 heures",
+            "format_sortie": "Acte de décès"
+        },
+        {
+            "id": 15,
+            "operation": "Livret de famille - obtention",
+            "categorie": "Documents d'état civil",
+            "documents_requis": [
+                "Acte de mariage",
+                "CNIE des deux époux",
+                "Photos d'identité"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Bureau d'État Civil / Commune",
+            "source_officielle": "https://www.watiqa.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "1 à 7 jours",
+            "format_sortie": "Livret de famille"
+        },
+        {
+            "id": 16,
+            "operation": "Mise à jour du livret de famille (naissance, décès)",
+            "categorie": "Documents d'état civil",
+            "documents_requis": [
+                "Livret de famille original",
+                "Acte à ajouter (ex : acte de naissance)",
+                "CNIE"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Bureau d'État Civil",
+            "source_officielle": "https://www.watiqa.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "1 à 7 jours",
+            "format_sortie": "Livret mis à jour"
+        },
+        {
+            "id": 17,
+            "operation": "Duplicata livret de famille (perte)",
+            "categorie": "Documents d'état civil",
+            "documents_requis": [
+                "Déclaration de perte",
+                "CNIE des époux",
+                "Acte de mariage",
+                "Photos"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Bureau d'État Civil",
+            "source_officielle": "https://www.watiqa.ma",
+            "frais_estimés": "Frais administratifs",
+            "delai_moyen": "1 à 14 jours",
+            "format_sortie": "Duplicata papier"
+        },
+        {
+            "id": 18,
+            "operation": "Transcription d'acte étranger (naissance/mariage)",
+            "categorie": "Documents d'état civil",
+            "documents_requis": [
+                "Acte étranger original + traduction assermentée",
+                "Preuve de résidence",
+                "CNIE ou passeport"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Bureau d'État Civil / Ministère de la Justice",
+            "source_officielle": "https://www.justice.gov.ma",
+            "frais_estimés": "Frais de traduction + frais administratifs",
+            "delai_moyen": "2 à 8 semaines",
+            "format_sortie": "Acte transcrit"
+        },
+        {
+            "id": 19,
+            "operation": "Certificat de célibat / état civil",
+            "categorie": "Documents d'état civil",
+            "documents_requis": [
+                "Formulaire de demande",
+                "CNIE",
+                "Justificatif de résidence"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Commune / Bureau d'État Civil",
+            "source_officielle": "https://www.watiqa.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "Le jour même",
+            "format_sortie": "Certificat papier"
+        },
+        {
+            "id": 20,
+            "operation": "Autorisation de sortie du territoire pour mineur",
+            "categorie": "Documents d'état civil",
+            "documents_requis": [
+                "Formulaire d'autorisation signé par les deux parents",
+                "Copies CNIE des parents",
+                "Copie acte de naissance de l'enfant"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Tribunal / Adouls / Autorités locales",
+            "source_officielle": "https://www.demarchesmaroc.com",
+            "frais_estimés": "Gratuit / frais modérés (si notarié)",
+            "delai_moyen": "1 à 7 jours",
+            "format_sortie": "Autorisation signée / légalisée"
+        }
+    ],
+    "Documents de véhicules et transport": [
+        {
+            "id": 21,
+            "operation": "Immatriculation véhicule neuf (carte grise)",
+            "categorie": "Documents de véhicules et transport",
+            "documents_requis": [
+                "Formule d'immatriculation (formulaire I/II)",
+                "Photocopie CNIE du propriétaire",
+                "Facture d'achat certifiée",
+                "Certificat de conformité",
+                "Attestation d'assurance"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "NARSA / Préfecture",
+            "source_officielle": "https://www.narsa.ma",
+            "frais_estimés": "Droits variant selon puissance",
+            "delai_moyen": "2 à 4 mois (récépissé 60 jours)",
+            "format_sortie": "Carte grise"
+        },
+        {
+            "id": 22,
+            "operation": "Changement de propriétaire (carte grise)",
+            "categorie": "Documents de véhicules et transport",
+            "documents_requis": [
+                "Ancienne carte grise",
+                "Contrat de vente légalisé",
+                "CNIE du vendeur et de l'acheteur",
+                "Certificat de résidence",
+                "Attestation d'assurance"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Préfecture / NARSA",
+            "source_officielle": "https://www.narsa.ma",
+            "frais_estimés": "Frais d'enregistrement",
+            "delai_moyen": "15 jours",
+            "format_sortie": "Carte grise mise à jour"
+        },
+        {
+            "id": 23,
+            "operation": "Duplicata carte grise (perte/vol)",
+            "categorie": "Documents de véhicules et transport",
+            "documents_requis": [
+                "Déclaration de perte/vol (Police)",
+                "Formulaire duplicata",
+                "CNIE du propriétaire",
+                "Attestation d'assurance"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Préfecture",
+            "source_officielle": "https://www.narsa.ma",
+            "frais_estimés": "Frais duplicata",
+            "delai_moyen": "1 à 4 semaines",
+            "format_sortie": "Carte grise duplicata"
+        },
+        {
+            "id": 24,
+            "operation": "Obtention du permis de conduire - première demande (cat. B)",
+            "categorie": "Documents de véhicules et transport",
+            "documents_requis": [
+                "Dossier d'inscription auto-école",
+                "Certificat médical (moins de 3 mois)",
+                "Copie CNIE",
+                "6 photos d'identité",
+                "Reçu paiement frais d'examen"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Auto-école agréée / NARSA",
+            "source_officielle": "https://www.narsa.ma",
+            "frais_estimés": "Frais auto-école + examen (variable)",
+            "delai_moyen": "1 à 3 mois (formation + examens)",
+            "format_sortie": "Permis plastifié"
+        },
+        {
+            "id": 25,
+            "operation": "Renouvellement permis de conduire (ancien format)",
+            "categorie": "Documents de véhicules et transport",
+            "documents_requis": [
+                "Permis ancien",
+                "Certificat médical",
+                "Copie CNIE",
+                "Formulaire de renouvellement"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Préfecture / NARSA",
+            "source_officielle": "https://khadamat.narsa.gov.ma",
+            "frais_estimés": "Frais administratifs",
+            "delai_moyen": "1 à 4 semaines",
+            "format_sortie": "Permis renouvelé"
+        },
+        {
+            "id": 26,
+            "operation": "Permis de conduire international",
+            "categorie": "Documents de véhicules et transport",
+            "documents_requis": [
+                "Permis marocain valide",
+                "Copie CNIE",
+                "2 photos d'identité",
+                "Formulaire de demande"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Préfecture / NARSA",
+            "source_officielle": "https://www.narsa.ma",
+            "frais_estimés": "200 DH",
+            "delai_moyen": "1 à 3 semaines",
+            "format_sortie": "Permis international"
+        },
+        {
+            "id": 27,
+            "operation": "Paiement de la vignette automobile (taxe routière)",
+            "categorie": "Documents de véhicules et transport",
+            "documents_requis": [
+                "Carte grise",
+                "Reçu précédent (si any)",
+                "Demande de paiement"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Trésorerie / Poste / Banque",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Variable selon puissance",
+            "delai_moyen": "Immédiat (paiement)",
+            "format_sortie": "Quittance / reçu"
+        },
+        {
+            "id": 28,
+            "operation": "Contrôle technique véhicule",
+            "categorie": "Documents de véhicules et transport",
+            "documents_requis": [
+                "Certificat d'assurance à jour",
+                "Carte grise",
+                "Présence du véhicule"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Centre de contrôle technique agréé",
+            "source_officielle": "https://www.narsa.ma",
+            "frais_estimés": "200-300 DH (est.)",
+            "delai_moyen": "Selon RDV (1 jour)",
+            "format_sortie": "Attestation contrôle technique"
+        },
+        {
+            "id": 29,
+            "operation": "Certificat de non-gage",
+            "categorie": "Documents de véhicules et transport",
+            "documents_requis": [
+                "Carte grise",
+                "CNIE propriétaire",
+                "Demande écrite"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Banque / Service public",
+            "source_officielle": "https://www.narsa.ma",
+            "frais_estimés": "Frais minimes",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Certificat papier / PDF"
+        },
+        {
+            "id": 30,
+            "operation": "Importation d'un véhicule - formalités douanières",
+            "categorie": "Documents de véhicules et transport",
+            "documents_requis": [
+                "Facture d'achat",
+                "Carte grise originale",
+                "CNIE du propriétaire",
+                "Procuration si nécessaire",
+                "Documents de transport (BL)"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Douane / Ministère des Transports",
+            "source_officielle": "https://www.douane.gov.ma",
+            "frais_estimés": "Droits d'importation + TVA",
+            "delai_moyen": "Variable (selon dédouanement)",
+            "format_sortie": "Titre de dédouanement"
+        }
+    ],
+    "Documents de logement et immobilier": [
+        {
+            "id": 31,
+            "operation": "Demande de certificat de résidence",
+            "categorie": "Documents de logement et immobilier",
+            "documents_requis": [
+                "Formulaire de demande",
+                "Copie CNIE",
+                "Justificatif de domicile (facture eau/électricité ou quittance de loyer)",
+                "2 témoins CNIE si requis"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Moqataa / Police / Gendarmerie",
+            "source_officielle": "https://idarati.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "1 jour",
+            "format_sortie": "Certificat papier"
+        },
+        {
+            "id": 32,
+            "operation": "Demande de titre foncier (immatriculation foncière)",
+            "categorie": "Documents de logement et immobilier",
+            "documents_requis": [
+                "Requête écrite",
+                "Acte de propriété (Melkia/Acte adoulaire)",
+                "Plan topographique",
+                "CNIE du demandeur"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Conservation Foncière / ANCFCC",
+            "source_officielle": "https://www.ancfcc.gov.ma",
+            "frais_estimés": "Frais d'immatriculation",
+            "delai_moyen": "Quelques semaines à mois",
+            "format_sortie": "Titre foncier"
+        },
+        {
+            "id": 33,
+            "operation": "Demande de certificat de propriété (extrait)",
+            "categorie": "Documents de logement et immobilier",
+            "documents_requis": [
+                "Numéro titre foncier ou coordonnées du bien",
+                "CNIE demandeur",
+                "Formulaire en ligne"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "ANCFCC",
+            "source_officielle": "https://www.ancfcc.gov.ma",
+            "frais_estimés": "50 DH (est.)",
+            "delai_moyen": "Immédiat (en ligne)",
+            "format_sortie": "Extrait / PDF"
+        },
+        {
+            "id": 34,
+            "operation": "Enregistrement d'un contrat de bail (enregistrement fiscal)",
+            "categorie": "Documents de logement et immobilier",
+            "documents_requis": [
+                "Contrat de bail signé par les deux parties",
+                "CNIE des deux parties",
+                "Titre foncier ou attestation propriétaire"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Administration fiscale / Commune",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "1.5% du montant annuel (est.)",
+            "delai_moyen": "Quelques jours à semaines",
+            "format_sortie": "Quittance d'enregistrement"
+        },
+        {
+            "id": 35,
+            "operation": "Autorisation de construire (Permis de construire - Roukhsa)",
+            "categorie": "Documents de logement et immobilier",
+            "documents_requis": [
+                "Demande sur formulaire",
+                "Titre foncier",
+                "Plans signés par architecte agréé",
+                "Plan de structure",
+                "Certificat de résidence"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Municipalité / Commune / Délégation",
+            "source_officielle": "https://www.collectivites-territoriales.gov.ma",
+            "frais_estimés": "Frais de délivrance variables",
+            "delai_moyen": "1 à 3 mois",
+            "format_sortie": "Permis papier"
+        },
+        {
+            "id": 36,
+            "operation": "Certificat de conformité (Chehada) après travaux",
+            "categorie": "Documents de logement et immobilier",
+            "documents_requis": [
+                "Attestation d'achèvement des travaux par architecte",
+                "Plans conformes",
+                "Autorisation de construire"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Municipalité / Commission d'urbanisme",
+            "source_officielle": "https://www.collectivites-territoriales.gov.ma",
+            "frais_estimés": "Frais d'inspection",
+            "delai_moyen": "1 à 2 mois après inspection",
+            "format_sortie": "Certificat de conformité"
+        },
+        {
+            "id": 37,
+            "operation": "Demande d'attestation de propriété (Melkia)",
+            "categorie": "Documents de logement et immobilier",
+            "documents_requis": [
+                "Titre foncier original ou copie",
+                "CNIE du propriétaire",
+                "Formulaire de demande"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Conservation Foncière",
+            "source_officielle": "https://www.ancfcc.gov.ma",
+            "frais_estimés": "Frais administratifs",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Attestation papier"
+        },
+        {
+            "id": 38,
+            "operation": "Obtention d'un compromis de vente / promesse de vente (acte adoulaire)",
+            "categorie": "Documents de logement et immobilier",
+            "documents_requis": [
+                "Contrat de vente signé",
+                "CNIE des parties",
+                "Titre foncier",
+                "PV de notaire"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Notaire / Adoul / Conservateur foncier",
+            "source_officielle": "https://www.notaires.ma",
+            "frais_estimés": "Frais notariaux variables",
+            "delai_moyen": "Quelques jours à semaines",
+            "format_sortie": "Acte notarié"
+        },
+        {
+            "id": 39,
+            "operation": "Demande d'aide au logement social (subvention)",
+            "categorie": "Documents de logement et immobilier",
+            "documents_requis": [
+                "Formulaire de demande",
+                "Justificatifs de revenus",
+                "Certificat de résidence",
+                "Composition familiale"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Ministère de l'Habitat / Collectivités locales",
+            "source_officielle": "https://www.habitat.gov.ma",
+            "frais_estimés": "Gratuit (sous condition)",
+            "delai_moyen": "Plusieurs semaines à mois",
+            "format_sortie": "Attestation d'éligibilité"
+        },
+        {
+            "id": 40,
+            "operation": "Enregistrement de vente immobilière (Titre de propriété)",
+            "categorie": "Documents de logement et immobilier",
+            "documents_requis": [
+                "Acte de vente notarié",
+                "Titre foncier",
+                "CNIE des parties",
+                "Paiement des droits et taxes"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Conservation Foncière / Trésorerie",
+            "source_officielle": "https://www.ancfcc.gov.ma",
+            "frais_estimés": "Droits d'enregistrement variables",
+            "delai_moyen": "Quelques semaines",
+            "format_sortie": "Titre de propriété enregistré"
+        }
+    ],
+    "Documents professionnels et entreprises": [
+        {
+            "id": 41,
+            "operation": "Demande de certificat négatif (nom commercial)",
+            "categorie": "Documents professionnels et entreprises",
+            "documents_requis": [
+                "Formulaire OMPIC",
+                "3 propositions de nom",
+                "CNIE du demandeur"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "OMPIC",
+            "source_officielle": "https://www.ompic.org.ma",
+            "frais_estimés": "230 DH",
+            "delai_moyen": "24 à 48 heures",
+            "format_sortie": "Certificat"
+        },
+        {
+            "id": 42,
+            "operation": "Inscription au registre de commerce (RC) - entreprise individuelle",
+            "categorie": "Documents professionnels et entreprises",
+            "documents_requis": [
+                "Formulaire RC",
+                "CNIE",
+                "Certificat de résidence",
+                "Contrat de bail ou attestation de domiciliation"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Centre Régional d'Investissement (CRI) / Greffe",
+            "source_officielle": "https://www.casablanca.ma / CRI local",
+            "frais_estimés": "350 DH (est.)",
+            "delai_moyen": "2 à 7 jours",
+            "format_sortie": "Extrait RC"
+        },
+        {
+            "id": 43,
+            "operation": "Attribution de l'Identifiant Commun d'Entreprise (ICE)",
+            "categorie": "Documents professionnels et entreprises",
+            "documents_requis": [
+                "Extrait RC",
+                "CNIE du gérant",
+                "Statuts (si société)"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Registre de Commerce / Administration fiscale",
+            "source_officielle": "https://www.ice.gov.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "Automatique à l'inscription",
+            "format_sortie": "Identifiant attribué"
+        },
+        {
+            "id": 44,
+            "operation": "Obtention de l'identifiant fiscal (IF)",
+            "categorie": "Documents professionnels et entreprises",
+            "documents_requis": [
+                "Extrait RC",
+                "CNIE du gérant",
+                "Statuts",
+                "Contrat de bail"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Administration fiscale",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "30 jours",
+            "format_sortie": "Identifiant fiscal"
+        },
+        {
+            "id": 45,
+            "operation": "Inscription CNSS - Employeur",
+            "categorie": "Documents professionnels et entreprises",
+            "documents_requis": [
+                "Registre de commerce",
+                "CNIE du représentant légal",
+                "PV de nomination",
+                "RIB",
+                "Statuts"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "CNSS",
+            "source_officielle": "https://www.cnss.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Numéro d'affiliation"
+        },
+        {
+            "id": 46,
+            "operation": "Affiliation CNSS - Salarié",
+            "categorie": "Documents professionnels et entreprises",
+            "documents_requis": [
+                "CNIE",
+                "Certificat de résidence",
+                "Contrat de travail",
+                "Formulaire d'affiliation"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "CNSS",
+            "source_officielle": "https://www.cnss.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "1 à 2 semaines",
+            "format_sortie": "Attestation d'affiliation"
+        },
+        {
+            "id": 47,
+            "operation": "Demande de patente (taxe professionnelle)",
+            "categorie": "Documents professionnels et entreprises",
+            "documents_requis": [
+                "Extrait RC",
+                "CNIE",
+                "Contrat de bail ou attestation de domiciliation",
+                "Identifiant fiscal"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Administration fiscale / Commune",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Variable selon activité",
+            "delai_moyen": "Avant début d'activité",
+            "format_sortie": "Attestation patente"
+        },
+        {
+            "id": 48,
+            "operation": "Demande d'attestation de conformité aux normes (produits)",
+            "categorie": "Documents professionnels et entreprises",
+            "documents_requis": [
+                "Fiche technique produit",
+                "Certificat d'origine",
+                "Échantillon si demandé"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Organisme de normalisation / Ministère compétent",
+            "source_officielle": "https://www.ism.ma",
+            "frais_estimés": "Frais de contrôle",
+            "delai_moyen": "Variable",
+            "format_sortie": "Certificat"
+        },
+        {
+            "id": 49,
+            "operation": "Déclaration d'existence (pour entreprise)",
+            "categorie": "Documents professionnels et entreprises",
+            "documents_requis": [
+                "Formulaire de déclaration",
+                "Extrait RC",
+                "CNIE du gérant",
+                "Contrat de bail"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Administration fiscale",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "30 jours",
+            "format_sortie": "Attestation de déclaration"
+        },
+        {
+            "id": 50,
+            "operation": "Demande d'attestation de domiciliation",
+            "categorie": "Documents professionnels et entreprises",
+            "documents_requis": [
+                "Contrat de domiciliation",
+                "CNIE du gérant",
+                "Statuts"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Centre de domiciliation / CRI",
+            "source_officielle": "https://www.cri.ma",
+            "frais_estimés": "Frais selon prestataire",
+            "delai_moyen": "1 à 7 jours",
+            "format_sortie": "Attestation de domiciliation"
+        }
+    ],
+    "Documents bancaires et financiers": [
+        {
+            "id": 51,
+            "operation": "Ouverture de compte bancaire particulier",
+            "categorie": "Documents bancaires et financiers",
+            "documents_requis": [
+                "CNIE originale + copie",
+                "Certificat de résidence (moins de 3 mois)",
+                "Justificatif de revenus (si demandé)"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Banque (guichet)",
+            "source_officielle": "https://www.bkam.ma",
+            "frais_estimés": "Montant dépôt initial variable",
+            "delai_moyen": "Le jour même à quelques jours",
+            "format_sortie": "Relevé d'identité bancaire / compte actif"
+        },
+        {
+            "id": 52,
+            "operation": "Ouverture de compte professionnel",
+            "categorie": "Documents bancaires et financiers",
+            "documents_requis": [
+                "Extrait RC",
+                "Statuts de la société",
+                "CNIE du représentant",
+                "RIB",
+                "Attestation de domiciliation"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Banque",
+            "source_officielle": "https://www.bkam.ma",
+            "frais_estimés": "Montant dépôt initial variable",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Compte professionnel"
+        },
+        {
+            "id": 53,
+            "operation": "Demande de RIB / Relevé d'Identité Bancaire",
+            "categorie": "Documents bancaires et financiers",
+            "documents_requis": [
+                "Carte bancaire ou preuve d'identité client",
+                "Demande au guichet ou internet"
+            ],
+            "nombre_documents": 2,
+            "autorite_competente": "Banque",
+            "source_officielle": "https://www.bkam.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "Immédiat",
+            "format_sortie": "RIB PDF/Imprimé"
+        },
+        {
+            "id": 54,
+            "operation": "Demande de chéquier",
+            "categorie": "Documents bancaires et financiers",
+            "documents_requis": [
+                "Compte actif",
+                "CNIE",
+                "Demande écrite"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Banque",
+            "source_officielle": "https://www.bkam.ma",
+            "frais_estimés": "Variable (selon banque)",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Chéquier"
+        },
+        {
+            "id": 55,
+            "operation": "Demande de carte bancaire",
+            "categorie": "Documents bancaires et financiers",
+            "documents_requis": [
+                "Compte actif",
+                "CNIE",
+                "Justificatif de revenus selon type de carte"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Banque",
+            "source_officielle": "https://www.bkam.ma",
+            "frais_estimés": "Frais annuels selon carte",
+            "delai_moyen": "1 à 15 jours",
+            "format_sortie": "Carte bancaire"
+        },
+        {
+            "id": 56,
+            "operation": "Demande de crédit immobilier",
+            "categorie": "Documents bancaires et financiers",
+            "documents_requis": [
+                "CNIE",
+                "Bulletins de salaire 3-6 derniers mois",
+                "Attestation de travail",
+                "Relevés bancaires 3-6 mois",
+                "Compromis de vente ou promesse d'achat"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Banque / Crédit immobilier",
+            "source_officielle": "https://www.bkam.ma",
+            "frais_estimés": "Taux variables (4.5%-6.5% indicatif)",
+            "delai_moyen": "2 à 8 semaines",
+            "format_sortie": "Offre de prêt / contrat"
+        },
+        {
+            "id": 57,
+            "operation": "Demande de crédit à la consommation",
+            "categorie": "Documents bancaires et financiers",
+            "documents_requis": [
+                "CNIE",
+                "Bulletins de salaire 3 derniers mois",
+                "Attestation de travail",
+                "Relevés bancaires"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Banque / Institutions de crédit",
+            "source_officielle": "https://www.bkam.ma",
+            "frais_estimés": "Variable selon produit",
+            "delai_moyen": "Quelques jours à semaines",
+            "format_sortie": "Contrat de crédit"
+        },
+        {
+            "id": 58,
+            "operation": "Attestation bancaire (preuve de solvabilité)",
+            "categorie": "Documents bancaires et financiers",
+            "documents_requis": [
+                "CNIE",
+                "Numéro de compte",
+                "Demande écrite détaillant le motif"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Banque",
+            "source_officielle": "https://www.bkam.ma",
+            "frais_estimés": "Frais selon banque",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Attestation papier/PDF"
+        },
+        {
+            "id": 59,
+            "operation": "Ouverture de compte en dirhams convertibles (pour étrangers)",
+            "categorie": "Documents bancaires et financiers",
+            "documents_requis": [
+                "Passeport + titre de séjour",
+                "Justificatif de revenus à l'étranger",
+                "Certificat de résidence",
+                "Montant dépôt minimum"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Banque",
+            "source_officielle": "https://www.bkam.ma",
+            "frais_estimés": "Montant dépôt minimum variable",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Compte en dirhams convertibles"
+        },
+        {
+            "id": 60,
+            "operation": "Clôture de compte bancaire",
+            "categorie": "Documents bancaires et financiers",
+            "documents_requis": [
+                "Demande écrite signée",
+                "Carte bancaire/chéquier rendus",
+                "CNIE"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Banque",
+            "source_officielle": "https://www.bkam.ma",
+            "frais_estimés": "Gratuit ou frais selon banque",
+            "delai_moyen": "Le jour même à quelques jours",
+            "format_sortie": "Attestation de clôture"
+        }
+    ],
+    "Documents scolaires et universitaires": [
+        {
+            "id": 61,
+            "operation": "Inscription scolaire (primaire/collège/lycée)",
+            "categorie": "Documents scolaires et universitaires",
+            "documents_requis": [
+                "Copie acte de naissance",
+                "CNIE des parents",
+                "Certificat médical",
+                "Carnet de vaccination",
+                "4 photos d'identité"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Établissement scolaire / Académie régionale",
+            "source_officielle": "https://www.men.gov.ma",
+            "frais_estimés": "Gratuit (sauf frais scolaires)",
+            "delai_moyen": "Le début de l'année scolaire / quelques jours",
+            "format_sortie": "Inscription / Certificat de scolarité"
+        },
+        {
+            "id": 62,
+            "operation": "Inscription universitaire - première année",
+            "categorie": "Documents scolaires et universitaires",
+            "documents_requis": [
+                "Baccalauréat original + copies",
+                "Relevé de notes du bac",
+                "CNIE",
+                "6 photos d'identité",
+                "Certificat médical"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Université / Ministère de l'Enseignement Supérieur",
+            "source_officielle": "https://www.enssup.gov.ma",
+            "frais_estimés": "Frais d'inscription minimes",
+            "delai_moyen": "1 à 3 semaines",
+            "format_sortie": "Attestation d'inscription"
+        },
+        {
+            "id": 63,
+            "operation": "Demande de bourse universitaire",
+            "categorie": "Documents scolaires et universitaires",
+            "documents_requis": [
+                "Formulaire de demande",
+                "Certificat de scolarité",
+                "Relevés de notes",
+                "Justificatifs de revenus des parents",
+                "Certificat de résidence"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Ministère / CROUS",
+            "source_officielle": "https://www.men.gov.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "1 à 2 mois",
+            "format_sortie": "Attribution de bourse"
+        },
+        {
+            "id": 64,
+            "operation": "Demande d'équivalence de diplôme étranger",
+            "categorie": "Documents scolaires et universitaires",
+            "documents_requis": [
+                "Diplôme original + traduction assermentée",
+                "Relevés de notes",
+                "Attestation de reconnaissance du pays d'origine",
+                "CNIE ou passeport"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Ministère de l'Enseignement Supérieur",
+            "source_officielle": "https://www.enssup.gov.ma",
+            "frais_estimés": "Frais administratifs",
+            "delai_moyen": "2 à 6 mois",
+            "format_sortie": "Décision d'équivalence"
+        },
+        {
+            "id": 65,
+            "operation": "Obtention d'une attestation de réussite",
+            "categorie": "Documents scolaires et universitaires",
+            "documents_requis": [
+                "Demande écrite",
+                "CNIE",
+                "Certificat de scolarité"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Établissement",
+            "source_officielle": "https://www.universite.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Attestation papier/PDF"
+        },
+        {
+            "id": 66,
+            "operation": "Demande de relevé de notes officiel",
+            "categorie": "Documents scolaires et universitaires",
+            "documents_requis": [
+                "Demande écrite",
+                "CNIE",
+                "Paiement éventuel de frais"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Établissement",
+            "source_officielle": "https://www.universite.ma",
+            "frais_estimés": "Frais administratifs",
+            "delai_moyen": "Quelques jours à semaines",
+            "format_sortie": "Relevé officiel"
+        },
+        {
+            "id": 67,
+            "operation": "Demande de carte d'étudiant",
+            "categorie": "Documents scolaires et universitaires",
+            "documents_requis": [
+                "Certificat de scolarité",
+                "CNIE",
+                "2 photos d'identité",
+                "Paiement des frais universitaires"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Université / Établissement",
+            "source_officielle": "https://www.universite.ma",
+            "frais_estimés": "Frais d'édition minimes",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Carte étudiante"
+        },
+        {
+            "id": 68,
+            "operation": "Demande d'inscription en formation professionnelle / CPF",
+            "categorie": "Documents scolaires et universitaires",
+            "documents_requis": [
+                "Diplôme précédent ou attestation de scolarité",
+                "CNIE",
+                "Formulaire de candidature"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Centre de formation / Ministère",
+            "source_officielle": "https://www.anapec.ma",
+            "frais_estimés": "Variable",
+            "delai_moyen": "Quelques jours à semaines",
+            "format_sortie": "Attestation d'inscription"
+        }
+    ],
+    "Documents de santé et couverture médicale": [
+        {
+            "id": 69,
+            "operation": "Inscription AMO - salariés (couverture obligatoire)",
+            "categorie": "Documents de santé et couverture médicale",
+            "documents_requis": [
+                "CNIE",
+                "Attestation d'affiliation CNSS",
+                "Certificat de travail",
+                "Photos d'identité"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "CNSS / Assurance Maladie Obligatoire",
+            "source_officielle": "https://www.cnss.ma",
+            "frais_estimés": "Cotisation partagée employeur/employé (6.37% indicatif)",
+            "delai_moyen": "Entrée en vigueur selon affiliation",
+            "format_sortie": "Carte AMO / Attestation"
+        },
+        {
+            "id": 70,
+            "operation": "Inscription AMO TADAMON (ex-RAMED)",
+            "categorie": "Documents de santé et couverture médicale",
+            "documents_requis": [
+                "RNP / RSU numéro",
+                "CNIE",
+                "Justificatifs de revenus"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Registre Social Unifié / Ministère de la Santé",
+            "source_officielle": "https://www.sante.gov.ma",
+            "frais_estimés": "Prise en charge par l'Etat pour éligibles",
+            "delai_moyen": "Traitement automatique / quelques semaines",
+            "format_sortie": "Carte / attestation"
+        },
+        {
+            "id": 71,
+            "operation": "Obtention d'un carnet de vaccination international",
+            "categorie": "Documents de santé et couverture médicale",
+            "documents_requis": [
+                "Carnet de vaccination national",
+                "CNIE ou passeport",
+                "Certificat médical si nécessaire"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Ministère de la Santé / Centre de vaccination international",
+            "source_officielle": "https://www.sante.gov.ma",
+            "frais_estimés": "Gratuit ou frais minimes",
+            "delai_moyen": "2 à 7 jours",
+            "format_sortie": "Carnet tamponné"
+        },
+        {
+            "id": 72,
+            "operation": "Demande de certificat médical prénuptial",
+            "categorie": "Documents de santé et couverture médicale",
+            "documents_requis": [
+                "Examen médical prénuptial par médecin agréé",
+                "CNIE"
+            ],
+            "nombre_documents": 2,
+            "autorite_competente": "Infirmier/Clinique/Hôpital",
+            "source_officielle": "https://www.sante.gov.ma",
+            "frais_estimés": "Frais consultation (50-200 DH)",
+            "delai_moyen": "Le jour même",
+            "format_sortie": "Certificat médical"
+        },
+        {
+            "id": 73,
+            "operation": "Demande d'aptitude médicale pour permis de conduire",
+            "categorie": "Documents de santé et couverture médicale",
+            "documents_requis": [
+                "Examen médical par médecin agréé",
+                "CNIE"
+            ],
+            "nombre_documents": 2,
+            "autorite_competente": "Médecin agréé / NARSA",
+            "source_officielle": "https://www.narsa.ma",
+            "frais_estimés": "Frais consultation (50-150 DH)",
+            "delai_moyen": "Le jour même",
+            "format_sortie": "Certificat médical"
+        },
+        {
+            "id": 74,
+            "operation": "Inscription à une mutuelle privée (adhésion)",
+            "categorie": "Documents de santé et couverture médicale",
+            "documents_requis": [
+                "CNIE",
+                "Bulletins de salaire ou justificatif de revenus",
+                "RIB",
+                "Formulaire d'adhésion"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Mutuelle privée / Compagnie",
+            "source_officielle": "https://www.mutuelle.ma",
+            "frais_estimés": "Cotisation mensuelle variable",
+            "delai_moyen": "Traitement quelques jours",
+            "format_sortie": "Carte / attestation de mutuelle"
+        },
+        {
+            "id": 75,
+            "operation": "Demande de dossier médical (hôpital)",
+            "categorie": "Documents de santé et couverture médicale",
+            "documents_requis": [
+                "Demande écrite",
+                "CNIE",
+                "Numéro de dossier patient"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Hôpital / Clinique",
+            "source_officielle": "https://www.sante.gov.ma",
+            "frais_estimés": "Frais de dossier éventuels",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Copie dossier / PDF"
+        },
+        {
+            "id": 76,
+            "operation": "Demande d'autorisation pour médicament contrôlé (ordonnance spéciale)",
+            "categorie": "Documents de santé et couverture médicale",
+            "documents_requis": [
+                "Ordonnance médicale signée par médecin",
+                "CNIE",
+                "Justificatif clinique"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Pharmacie agréée / Ministère de la Santé",
+            "source_officielle": "https://www.sante.gov.ma",
+            "frais_estimés": "Gratuit ou selon médicament",
+            "delai_moyen": "Immédiat à quelques jours",
+            "format_sortie": "Autorisation / ordonnance"
+        }
+    ],
+    "Documents de voyage et immigration": [
+        {
+            "id": 77,
+            "operation": "Demande de visa Schengen (court séjour)",
+            "categorie": "Documents de voyage et immigration",
+            "documents_requis": [
+                "Formulaire visa Schengen",
+                "Passeport valide",
+                "2 photos d'identité",
+                "Assurance voyage",
+                "Preuve d'hébergement et vol",
+                "Relevés bancaires 3 mois"
+            ],
+            "nombre_documents": 6,
+            "autorite_competente": "Ambassade / Consulat du pays concerné",
+            "source_officielle": "https://france-visas.gouv.fr (exemple)",
+            "frais_estimés": "80 EUR (est.)",
+            "delai_moyen": "15 jours (moyen)",
+            "format_sortie": "Visa autocollant"
+        },
+        {
+            "id": 78,
+            "operation": "Demande de visa national de long séjour (ex: études, travail)",
+            "categorie": "Documents de voyage et immigration",
+            "documents_requis": [
+                "Formulaire de visa long séjour",
+                "Passeport",
+                "Lettre d'acceptation (études) ou contrat de travail",
+                "Assurance",
+                "Preuves de ressources"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Ambassade / Consulat",
+            "source_officielle": "https://www.consulat.ma",
+            "frais_estimés": "Variable selon pays",
+            "delai_moyen": "Quelques semaines",
+            "format_sortie": "Visa long séjour"
+        },
+        {
+            "id": 79,
+            "operation": "Obtention d'un laissez-passer/autorisation d'urgence (pour rapatriement)",
+            "categorie": "Documents de voyage et immigration",
+            "documents_requis": [
+                "Justificatif d'urgence (billet, certificat médical)",
+                "CNIE/passeport",
+                "Demande consulaire"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Consulat / Ministère des Affaires Étrangères",
+            "source_officielle": "https://www.consulat.ma",
+            "frais_estimés": "Frais consulaires éventuels",
+            "delai_moyen": "24-72 heures",
+            "format_sortie": "Laissez-passer / autorisation"
+        },
+        {
+            "id": 80,
+            "operation": "Demande de visa pour travailleur étranger au Maroc (titre de séjour de travail)",
+            "categorie": "Documents de voyage et immigration",
+            "documents_requis": [
+                "Contrat de travail",
+                "Passeport",
+                "Formulaire de demande",
+                "Certificat médical",
+                "Preuves de qualifications"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Ministère de l'Intérieur / Travail",
+            "source_officielle": "https://www.interieur.gov.ma",
+            "frais_estimés": "Frais administratifs",
+            "delai_moyen": "4 à 12 semaines",
+            "format_sortie": "Titre de séjour"
+        },
+        {
+            "id": 81,
+            "operation": "Demande d'immatriculation consulaire pour MRE",
+            "categorie": "Documents de voyage et immigration",
+            "documents_requis": [
+                "Formulaire consulaire",
+                "Copie passeport/CNIE",
+                "Justificatif de résidence à l'étranger",
+                "Photos"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Consulat du Maroc",
+            "source_officielle": "https://www.consulat.ma",
+            "frais_estimés": "Variable",
+            "delai_moyen": "2 à 8 semaines",
+            "format_sortie": "Attestation consulaire"
+        },
+        {
+            "id": 82,
+            "operation": "Demande de carte de résident pour conjoint étranger",
+            "categorie": "Documents de voyage et immigration",
+            "documents_requis": [
+                "Acte de mariage ou preuve d'union",
+                "Passeport du conjoint",
+                "Formulaire de demande",
+                "Certificat de résidence",
+                "Justificatifs de ressources"
+            ],
+            "nombre_documents": 5,
+            "autorite_competente": "Préfecture / Ministère de l'Intérieur",
+            "source_officielle": "https://www.interieur.gov.ma",
+            "frais_estimés": "Frais administratifs",
+            "delai_moyen": "4 à 12 semaines",
+            "format_sortie": "Carte de résident"
+        },
+        {
+            "id": 83,
+            "operation": "Demande de réadmission / régularisation (pour étrangers)",
+            "categorie": "Documents de voyage et immigration",
+            "documents_requis": [
+                "Formulaire spécifique",
+                "Passeport/identité",
+                "Preuves de résidence/emploi",
+                "Documents judiciaires si besoin"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Préfecture / Ministère de l'Intérieur",
+            "source_officielle": "https://www.interieur.gov.ma",
+            "frais_estimés": "Variable",
+            "delai_moyen": "Variable selon dossier",
+            "format_sortie": "Titre de séjour / décision"
+        },
+        {
+            "id": 84,
+            "operation": "Obtention du laissez-passer pour mineur voyageant seul",
+            "categorie": "Documents de voyage et immigration",
+            "documents_requis": [
+                "Autorisation parentale signée",
+                "Copies CNIE des parents",
+                "Acte de naissance de l'enfant",
+                "Billet/justificatif voyage"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Tribunal / Adoul / Autorités locales",
+            "source_officielle": "https://www.demarchesmaroc.com",
+            "frais_estimés": "Frais minimes si notarié",
+            "delai_moyen": "1 à 7 jours",
+            "format_sortie": "Autorisation légalisée"
+        }
+    ],
+    "Documents judiciaires et légaux": [
+        {
+            "id": 85,
+            "operation": "Demande d'extrait de casier judiciaire (B3)",
+            "categorie": "Documents judiciaires et légaux",
+            "documents_requis": [
+                "Formulaire de demande",
+                "CNIE ou passeport",
+                "Timbre fiscal (10 DH)"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Ministère de la Justice",
+            "source_officielle": "https://casierjudiciaire.justice.gov.ma",
+            "frais_estimés": "10 DH",
+            "delai_moyen": "24 à 48 heures",
+            "format_sortie": "Extrait casier judiciaire (PDF/papier)"
+        },
+        {
+            "id": 86,
+            "operation": "Dépôt de plainte (enregistrement plainte pénale)",
+            "categorie": "Documents judiciaires et légaux",
+            "documents_requis": [
+                "Pièce d'identité (CNIE/passeport)",
+                "Récit des faits écrit",
+                "Preuves éventuelles (documents, photos)"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Sûreté Nationale / Gendarmerie",
+            "source_officielle": "https://www.dgsn.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "Immédiat (dépôt)",
+            "format_sortie": "Récépissé de dépôt de plainte"
+        },
+        {
+            "id": 87,
+            "operation": "Demande d'acte notarié (vente/cession)",
+            "categorie": "Documents judiciaires et légaux",
+            "documents_requis": [
+                "Pièces d'identité des parties",
+                "Titre foncier",
+                "Contrat de vente",
+                "Mandat notaire"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Notaire / Tribunal",
+            "source_officielle": "https://www.notaires.ma",
+            "frais_estimés": "Frais notariaux variables",
+            "delai_moyen": "Quelques jours à semaines",
+            "format_sortie": "Acte notarié"
+        },
+        {
+            "id": 88,
+            "operation": "Demande de légalisation de signature / documents (apostille si applicable)",
+            "categorie": "Documents judiciaires et légaux",
+            "documents_requis": [
+                "Document original",
+                "Pièce d'identité",
+                "Formulaire de légalisation"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Ministère des Affaires Étrangères / Préfecture",
+            "source_officielle": "https://www.affaires-etrangeres.ma",
+            "frais_estimés": "Frais de légalisation",
+            "delai_moyen": "1 à 14 jours",
+            "format_sortie": "Document légalisé"
+        },
+        {
+            "id": 89,
+            "operation": "Demande d'aide juridictionnelle",
+            "categorie": "Documents judiciaires et légaux",
+            "documents_requis": [
+                "Formulaire d'aide juridictionnelle",
+                "Justificatifs de revenus",
+                "CNIE"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Tribunal / Ministère de la Justice",
+            "source_officielle": "https://www.justice.gov.ma",
+            "frais_estimés": "Gratuit pour éligibles",
+            "delai_moyen": "Quelques semaines",
+            "format_sortie": "Décision d'aide / prise en charge"
+        },
+        {
+            "id": 90,
+            "operation": "Procédure de divorce (judiciaire) - dépôt de dossier",
+            "categorie": "Documents judiciaires et légaux",
+            "documents_requis": [
+                "Acte de mariage",
+                "CNIE des époux",
+                "Motifs et preuves",
+                "Mandat avocat"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Tribunal de la famille",
+            "source_officielle": "https://www.justice.gov.ma",
+            "frais_estimés": "Frais judiciaires + honoraires avocat",
+            "delai_moyen": "Variable (plusieurs mois)",
+            "format_sortie": "Jugement / ordonnance"
+        },
+        {
+            "id": 91,
+            "operation": "Demande de succession - ouverture du dossier de succession",
+            "categorie": "Documents judiciaires et légaux",
+            "documents_requis": [
+                "Acte de décès",
+                "Livret de famille du défunt",
+                "Titres de propriété",
+                "Actes notariés éventuels"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Notaire / Tribunal",
+            "source_officielle": "https://www.notaires.ma",
+            "frais_estimés": "Frais notariaux",
+            "delai_moyen": "Quelques semaines à mois",
+            "format_sortie": "Actes de succession"
+        },
+        {
+            "id": 92,
+            "operation": "Demande d'acte de naissance tardive (rectification)",
+            "categorie": "Documents judiciaires et légaux",
+            "documents_requis": [
+                "Justificatifs prouvant la naissance (témoignages, preuves médicales)",
+                "CNIE",
+                "Demande au tribunal si nécessaire"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Tribunal / Bureau d'État Civil",
+            "source_officielle": "https://www.justice.gov.ma",
+            "frais_estimés": "Frais judiciaires éventuels",
+            "delai_moyen": "Plusieurs semaines",
+            "format_sortie": "Acte rectifié"
+        }
+    ],
+    "Documents fiscaux et taxes": [
+        {
+            "id": 93,
+            "operation": "Déclaration d'existence fiscale (création d'entreprise)",
+            "categorie": "Documents fiscaux et taxes",
+            "documents_requis": [
+                "Formulaire de déclaration d'existence",
+                "Extrait RC",
+                "CNIE du représentant",
+                "Contrat de bail"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Administration fiscale",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "30 jours",
+            "format_sortie": "Attestation fiscale"
+        },
+        {
+            "id": 94,
+            "operation": "Demande d'immatriculation à la TVA",
+            "categorie": "Documents fiscaux et taxes",
+            "documents_requis": [
+                "Formulaire TVA",
+                "Extrait RC",
+                "CNIE",
+                "Statuts société"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Administration fiscale",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "30 jours",
+            "format_sortie": "Numéro TVA"
+        },
+        {
+            "id": 95,
+            "operation": "Paiement de la taxe foncière / taxe d'habitation",
+            "categorie": "Documents fiscaux et taxes",
+            "documents_requis": [
+                "Avis d'imposition",
+                "Titre foncier / référence cadastrale",
+                "CNIE"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Trésorerie / Commune",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Montant variable selon bien",
+            "delai_moyen": "Période annuelle (paiement immédiat)",
+            "format_sortie": "Quittance"
+        },
+        {
+            "id": 96,
+            "operation": "Demande de remboursement de TVA (exportateurs)",
+            "categorie": "Documents fiscaux et taxes",
+            "documents_requis": [
+                "Factures export, preuves d'exportation, Déclarations douanières"
+            ],
+            "nombre_documents": 1,
+            "autorite_competente": "Administration fiscale / Douane",
+            "source_officielle": "https://www.douane.gov.ma",
+            "frais_estimés": "Remboursement selon règles",
+            "delai_moyen": "Quelques semaines à mois",
+            "format_sortie": "Remboursement / attestation"
+        },
+        {
+            "id": 97,
+            "operation": "Déclaration d'impôt sur le revenu (personnel) - année fiscale",
+            "categorie": "Documents fiscaux et taxes",
+            "documents_requis": [
+                "Formulaire d'imposition",
+                "Bulletins de salaire",
+                "Relevés bancaires",
+                "CNIE"
+            ],
+            "nombre_documents": 4,
+            "autorite_competente": "Administration fiscale",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Selon tranche d'imposition",
+            "delai_moyen": "Annuel (délai déclaration)",
+            "format_sortie": "Avis d'imposition"
+        },
+        {
+            "id": 98,
+            "operation": "Obtention d'un certificat de résidence fiscale",
+            "categorie": "Documents fiscaux et taxes",
+            "documents_requis": [
+                "Formulaire demande",
+                "Justificatifs de domicile",
+                "CNIE / Passeport"
+            ],
+            "nombre_documents": 3,
+            "autorite_competente": "Administration fiscale / Trésorerie",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Gratuit ou frais minimes",
+            "delai_moyen": "Quelques jours",
+            "format_sortie": "Certificat papier"
+        },
+        {
+            "id": 99,
+            "operation": "Demande d'exonération ou remise de dette fiscale",
+            "categorie": "Documents fiscaux et taxes",
+            "documents_requis": [
+                "Formulaire, justificatifs financiers, décision administrative précédente"
+            ],
+            "nombre_documents": 1,
+            "autorite_competente": "Administration fiscale / Tribunal administratif",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Selon décision",
+            "delai_moyen": "Quelques semaines à mois",
+            "format_sortie": "Décision administrative"
+        },
+        {
+            "id": 100,
+            "operation": "Obtention du numéro d'identification fiscale (NIF/IF)",
+            "categorie": "Documents fiscaux et taxes",
+            "documents_requis": [
+                "Formulaire, Extrait RC, CNIE du gérant"
+            ],
+            "nombre_documents": 1,
+            "autorite_competente": "Administration fiscale",
+            "source_officielle": "https://www.tax.gov.ma",
+            "frais_estimés": "Gratuit",
+            "delai_moyen": "Quelques jours à semaines",
+            "format_sortie": "Numéro fiscal"
+        }
+    ]
+}
